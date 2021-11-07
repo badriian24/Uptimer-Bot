@@ -1,3 +1,4 @@
 # Uptimer-Bot
-> Uptimer Bot Discord
-> Easy to host
+> Uptimer Bot discord for pinging your project using json database
+
+<hr>
