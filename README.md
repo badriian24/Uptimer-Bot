@@ -1,4 +1,3 @@
 # Uptimer-Bot
-Uptimer Bot Discord
-
-pinging your project
+> Uptimer Bot Discord
+> Easy to host
