@@ -10,7 +10,7 @@ run: async(client, message, args) => {
 .setThumbnail(client.user.displayAvatarURL())
 		.setColor(client.embedcolor)
 		.addField(`> Info`, '`help`, `ping`, `uptime`')
-	.addField(`> Monitoring`, '`monitor`, `remove`, `total`')
+	.addField(`> Monitoring`, '`monitor`, `remove`, `stats`, `total`')
 	.setFooter(client.user.username)
 .setTimestamp()
 	message.channel.send(help)
